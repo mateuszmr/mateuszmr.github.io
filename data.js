@@ -8,7 +8,7 @@ export const experience = [
         duration: "August 2018 - Present",
         subtitle: "Senior Tester",
         details: [
-            "Duties: TODO"
+            ""
         ],
         tags: ["GIT", "GitLab", "Jira", "Postaman", "Sentry", "Cypress"],
         icon: "rotate-right",
@@ -18,7 +18,7 @@ export const experience = [
         duration: "January 2023 - November 2023",
         subtitle: "Senior Software Tester",
         details: [
-            "Duties: TODO"
+            ""
         ],
         tags: ["Postaman", "GitLab", "PostgeSQL"],
         icon: "check",
@@ -28,7 +28,7 @@ export const experience = [
         duration: "August 2021 – January 2022",
         subtitle: "Senior Software Tester",
         details: [
-            "Duties: TODO"
+            ""
         ],
         tags: ["Postman", "Swagger", "Jira", "Confluence", "Xray", "GIT", "GCP"],
         icon: "check",
@@ -38,7 +38,7 @@ export const experience = [
         duration: "June 2018 - October 2020",
         subtitle: "Software Tester",
         details: [
-            "Duties: TODO"
+            ""
         ],
         tags: ["GitLab", "Jira", "DevTool", "Sentry"],
         icon: "check",
@@ -48,7 +48,7 @@ export const experience = [
         duration: "August 2015 – July 2018",
         subtitle: "Expert CIS/EMR",
         details: [
-            "Duties: TODO"
+            ""
         ],
         tags: [""],
         icon: "check",
@@ -62,7 +62,7 @@ export const courses = [
         subtitle: "",
         details: [],
         tags: [],
-        icon: "award",
+        icon: "certificate",
     },
     {
         title: "Fundamentals of Automated Testing in Selenium and Python – jaktestowac.pl",
@@ -78,7 +78,7 @@ export const courses = [
         subtitle: "",
         details: [],
         tags: [],
-        icon: "book-open-reader",
+        icon: "database",
     },
 ];
 
@@ -95,7 +95,7 @@ export const education = [
 
 export const footer = [
     {
-        label: "Dev Profiles",
+        label: "Links",
         data: [
             {
                 text: "GitHub",

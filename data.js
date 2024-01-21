@@ -1,5 +1,5 @@
 export const bio = [
-    "I am a software tester with several years of experience. I have had the pleasure of working on a variety of projects, including European funded initiatives. I am a meticulous and detail-oriented person who learns quickly and adapts efficiently to new projects and technologies.",
+    "Hi! I am a software tester with several years of experience. I have had the pleasure of working on a variety of projects, including European funded initiatives. I am a meticulous and detail-oriented person who learns quickly and adapts efficiently to new projects and technologies.",
 ];
 
 export const experience = [
@@ -62,7 +62,23 @@ export const courses = [
         subtitle: "",
         details: [],
         tags: [],
-        icon: "award",
+        icon: "code-merge",
+    },
+    {
+        title: "Fundamentals of Automated Testing in Selenium and Python – jaktestowac.pl",
+        duration: "April 2020",
+        subtitle: "",
+        details: [],
+        tags: [],
+        icon: "code-branch",
+    },
+    {
+        title: "Training - 'Become a tester' organised by Sii Ltd. (March 2018)",
+        duration: "March 2018",
+        subtitle: "",
+        details: [],
+        tags: [],
+        icon: "code-comit",
     },
 ];
 
@@ -83,11 +99,11 @@ export const footer = [
         data: [
             {
                 text: "GitHub",
-                link: "https://github.com/",
+                link: "https://github.com/mateuszmr",
             },
             {
                 text: "LinkedIn",
-                link: "https://linkedin.com",
+                link: "https://www.linkedin.com/in/mateuszmr%C3%B3z/",
             },
         ],
     },

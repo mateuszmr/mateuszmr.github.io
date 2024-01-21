@@ -37,9 +37,7 @@ export const experience = [
         title: "EDEGETEQ Sp. z o.o.",
         duration: "June 2018 - October 2020",
         subtitle: "Software Tester",
-        details: [
-            ""
-        ],
+        details: [""],
         tags: ["GitLab", "Jira", "DevTool", "Sentry"],
         icon: "check",
     },

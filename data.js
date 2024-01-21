@@ -2,51 +2,6 @@ export const bio = [
     "I am a software tester with several years of experience. I have had the pleasure of working on a variety of projects, including European funded initiatives. I am a meticulous and detail-oriented person who learns quickly and adapts efficiently to new projects and technologies.",
 ];
 
-// export const skills = [
-//     {
-//         title: "Languages",
-//         skillName: "JavaScript, TypeScript",
-//         color: "1",
-//         percentage: "80",
-//     },
-//     {
-//         title: "Frameworks/Libraries",
-//         skillName: "Angular, RxJS, NGXS",
-//         color: "6",
-//         percentage: "70",
-//     },
-//     {
-//         title: "Design",
-//         skillName: "HTML, Bootstrap, Tailwind",
-//         color: "4",
-//         percentage: "70",
-//     },
-//     {
-//         title: "Version Control",
-//         skillName: "GitHub, JIRA, Bitbucket",
-//         color: "7",
-//         percentage: "70",
-//     },
-//     {
-//         title: "Tools",
-//         skillName: "Postman, Chrome DevTools",
-//         color: "3",
-//         percentage: "80",
-//     },
-//     {
-//         title: "Analytics",
-//         skillName: "CleverTap, Countly",
-//         color: "5",
-//         percentage: "50",
-//     },
-//     {
-//         title: "IDE",
-//         skillName: "VS Code",
-//         color: "6",
-//         percentage: "70",
-//     },
-// ];
-
 // export const projects = {
 //     webProjects: [
 //         {

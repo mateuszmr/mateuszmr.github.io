@@ -91,9 +91,9 @@ function populateExp_Edu(items, id) {
   let mainContainer = document.getElementById(id);
 
   for (let i = 0; i < items.length; i++) {
-    let spanTimelineSublabel = document.createElement("span");
-    spanTimelineSublabel.className = "timeline-sublabel";
-    spanTimelineSublabel.innerHTML = items[i].subtitle;
+    // let spanTimelineSublabel = document.createElement("span");
+    // spanTimelineSublabel.className = "timeline-sublabel";
+    // spanTimelineSublabel.innerHTML = items[i].subtitle;
 
     let spanh2 = document.createElement("span");
     spanh2.innerHTML = items[i].duration;
@@ -105,7 +105,7 @@ function populateExp_Edu(items, id) {
     let divTimelineLabel = document.createElement("div");
     divTimelineLabel.className = "timeline-label";
     divTimelineLabel.append(h2TimelineLabel);
-    divTimelineLabel.append(spanTimelineSublabel);
+    // divTimelineLabel.append(spanTimelineSublabel);
 
     for (let j = 0; j < items[i].details.length; j++) {
       let pTimelineText = document.createElement("p");

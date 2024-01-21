@@ -38,7 +38,7 @@ export const experience = [
         duration: "June 2018 - October 2020",
         subtitle: "Software Tester",
         details: [""],
-        tags: ["GitLab", "Jira", "DevTool", "Sentry"],
+        tags: ["GitLab", "Jira", "DevTools", "Sentry"],
         icon: "check",
     },
     {

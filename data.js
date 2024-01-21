@@ -62,7 +62,7 @@ export const courses = [
         subtitle: "",
         details: [],
         tags: [],
-        icon: "code-merge",
+        icon: "award",
     },
     {
         title: "Fundamentals of Automated Testing in Selenium and Python – jaktestowac.pl",
@@ -70,7 +70,7 @@ export const courses = [
         subtitle: "",
         details: [],
         tags: [],
-        icon: "code-branch",
+        icon: "code",
     },
     {
         title: "Training - 'Become a tester' organised by Sii Ltd. (March 2018)",
@@ -78,7 +78,7 @@ export const courses = [
         subtitle: "",
         details: [],
         tags: [],
-        icon: "code-comit",
+        icon: "book-open-reader",
     },
 ];
 

@@ -57,12 +57,12 @@ export const experience = [
 
 export const courses = [
     {
-        title: "University of Infrastructure and Management in Warsaw",
-        duration: "2010 - 2014",
-        subtitle: "Faculty: Management",
+        title: "ISTQB Certified Tester Foundation Level",
+        duration: "July 2022",
+        subtitle: "",
         details: [],
         tags: [],
-        icon: "graduation-cap",
+        icon: "award",
     },
 ];
 

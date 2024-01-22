@@ -6,7 +6,7 @@ export const experience = [
     {
         title: "EDEGETEQ Sp. z o.o.",
         duration: "August 2018 - Present",
-        subtitle: "Senior Tester",
+        subtitle: "Senior Software Tester",
         details: [
             ""
         ],
@@ -26,7 +26,7 @@ export const experience = [
     {
         title: "Telemedi Sp. z o.o.",
         duration: "August 2021 – January 2022",
-        subtitle: "Senior Software Tester",
+        subtitle: "Senior QA Engineer",
         details: [
             ""
         ],

@@ -34,7 +34,7 @@ export const experience = [
         icon: "check",
     },
     {
-        title: "EDEGETEQ Sp. z o.o.",
+        title: "EDGETEQ Sp. z o.o.",
         duration: "June 2018 - October 2020",
         subtitle: "Software Tester",
         details: [""],

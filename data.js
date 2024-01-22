@@ -57,7 +57,7 @@ export const courses = [
     {
         title: "ISTQB Certified Tester Foundation Level",
         duration: "July 2022",
-        subtitle: "",
+        // subtitle: "",
         details: [],
         tags: [],
         icon: "certificate",
@@ -65,7 +65,7 @@ export const courses = [
     {
         title: "Fundamentals of Automated Testing in Selenium and Python – jaktestowac.pl",
         duration: "April 2020",
-        subtitle: "",
+        // subtitle: "",
         details: [],
         tags: [],
         icon: "code",

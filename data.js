@@ -56,16 +56,16 @@ export const experience = [
 export const courses = [
     {
         title: "ISTQB Certified Tester Foundation Level",
-        duration: "July 2022",
-        // subtitle: "",
+        duration: "",
+        subtitle: "July 2022",
         details: [],
         tags: [],
         icon: "certificate",
     },
     {
         title: "Fundamentals of Automated Testing in Selenium and Python – jaktestowac.pl",
-        duration: "April 2020",
-        // subtitle: "",
+        duration: "",
+        subtitle: "April 2020",
         details: [],
         tags: [],
         icon: "code",
@@ -84,7 +84,7 @@ export const education = [
     {
         title: "University of Infrastructure and Management in Warsaw",
         duration: "2010 - 2014",
-        subtitle: "Faculty: Management",
+        subtitle: "Bachelor degree / Faculty: Management",
         details: [],
         tags: [],
         icon: "graduation-cap",

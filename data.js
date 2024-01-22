@@ -72,8 +72,8 @@ export const courses = [
     },
     {
         title: "Training - 'Become a tester' organised by Sii Ltd. (March 2018)",
-        duration: "March 2018",
-        subtitle: "",
+        duration: "",
+        subtitle: "March 2018",
         details: [],
         tags: [],
         icon: "database",

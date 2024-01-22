@@ -4,7 +4,7 @@ export const bio = [
 
 export const experience = [
     {
-        title: "EDEGETEQ Sp. z o.o.",
+        title: "EDGETEQ Sp. z o.o.",
         duration: "August 2018 - Present",
         subtitle: "Senior Software Tester",
         details: [
